@@ -1,3 +1,3 @@
 ﻿# Student Portfolio
 ## My Portfolio Project
-This is my portfolio project - Version 1
+This is my portfolio project - Version 2
